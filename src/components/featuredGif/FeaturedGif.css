@@ -1,0 +1,26 @@
+.featuredGif {
+  margin: 20px;
+  padding: 20px;
+  box-shadow: 1px -1px 5px 9px rgba(0, 0, 0, 0.18);
+  -webkit-box-shadow: 1px -1px 5px 9px rgba(0, 0, 0, 0.18);
+  -moz-box-shadow: 1px -1px 5px 9px rgba(0, 0, 0, 0.18);
+}
+
+.featuredGifTitle {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.featuredGifContianer {
+  display: flex;
+  justify-content: center;
+}
+
+.featuredGifPreview {
+  margin: 0 20px;
+  width: 550px;
+  height: 350px;
+}

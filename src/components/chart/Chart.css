@@ -1,0 +1,29 @@
+.charts {
+  display: flex;
+  justify-content: space-between;
+  height: 400px;
+  padding: 10px;
+  /* margin: 10px; */
+}
+
+.chart {
+  margin: 20px;
+  padding: 20px;
+  box-shadow: 1px -1px 5px 9px rgba(0, 0, 0, 0.18);
+  -webkit-box-shadow: 1px -1px 5px 9px rgba(0, 0, 0, 0.18);
+  -moz-box-shadow: 1px -1px 5px 9px rgba(0, 0, 0, 0.18);
+}
+
+.lineChart {
+  flex: 3;
+}
+.pieChart {
+  flex: 1;
+  padding: 20px;
+}
+
+.chartTitle {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
