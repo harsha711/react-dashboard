@@ -60,7 +60,7 @@ export default function Chart() {
   return (
     <div className="chart lineChart">
       <h3 className="chartTitle">Sales Analytics</h3>
-      <ResponsiveContainer width="100%" aspect={5 / 2}>
+      <ResponsiveContainer width="100%" height="90%">
         <LineChart
           width={500}
           height={300}

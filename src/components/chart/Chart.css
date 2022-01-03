@@ -1,7 +1,7 @@
 .charts {
   display: flex;
   justify-content: space-between;
-  height: 400px;
+  height: 55vh;
   padding: 10px;
   /* margin: 10px; */
 }
